@@ -30,4 +30,4 @@
 - 🔭 Hoje trabalho como UX|UI Design Na Codezone
 - 🌱 Estudando sempre UX design, html, css, js entre outras.
 - 📫 Contate-me: contato.marcos.nathanael@gmail.com
-- 👌 behance: https://www.behance.net/marcosuplines
+- 👌 behance: https://www.behance.net/marcosuplines](https://www.behance.net/marcosnathanael
