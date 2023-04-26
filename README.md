@@ -1,4 +1,16 @@
-### Olá eu sou o Marcos N 👋
+### Olá eu sou o Marcos Nathanael 👋
+
+<!-- título  -->
+<h4>Sobre mim</h4>
+
+<div>
+  
+- 🔭 Hoje trabalho como UX|UI Design Na Codezone
+- 🌱 Estudando sempre UX design, html, css, js entre outras.
+- 📫 <a href="mailto:contato.marcos.nathanael@gmail.com"> Contate-me:</a>
+- 👌 <a href="https://www.behance.net/marcosnathanael"> Behance</a> 
+  
+</div>
 
 <!-- título  -->
 <h4>Tecnologias e Softwares</h4>
@@ -22,7 +34,7 @@
 <!-- bloco contato  -->
 <div> 
   <a href ="mailto:contato.marcos.nathanael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=https://www.linkedin.com/in/marcos-nathanael-b39936196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcos-nathanael-b39936196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a> 
 </div>
 
 <!-- linha  -->
@@ -32,17 +44,5 @@
 <!-- a cobra  -->
   
 ![Snake animation](https://github.com/RazielID752/RazielID752/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<!-- título  -->
-<h4>Sobre mim</h4>
-
-<div>
-  
-- 🔭 Hoje trabalho como UX|UI Design Na Codezone
-- 🌱 Estudando sempre UX design, html, css, js entre outras.
-- 📫 <a href="mailto:contato.marcos.nathanael@gmail.com"> Contate-me:</a>
-- 👌 <a href="https://www.behance.net/marcosnathanael"> Behance</a> 
   
 </div>
