@@ -7,7 +7,7 @@
   
 - 🔭 Hoje trabalho como UX|UI Design Na Codezone
 - 🌱 Estudando sempre UX design, html, css, js entre outras.
-- 📫 <a href="mailto:contato.marcos.nathanael@gmail.com" target="_blank"> Contate-me:</a>
+- 📫 <a href="mailto:contato.marcos.nathanael@gmail.com"> Contate-me:</a>
 - 👌 <a href="https://www.behance.net/marcosnathanael" target="_blank"> Behance</a> 
   
 </div>
@@ -34,7 +34,7 @@
 <!-- bloco contato  -->
 <div> 
   <a href ="mailto:contato.marcos.nathanael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-nathanael-b39936196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcos-nathanael-b39936196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!-- linha  -->
