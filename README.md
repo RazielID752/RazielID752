@@ -7,8 +7,8 @@
   
 - 🔭 Hoje trabalho como UX|UI Design Na Codezone
 - 🌱 Estudando sempre UX design, html, css, js entre outras.
-- 📫 <a href="mailto:contato.marcos.nathanael@gmail.com"> Contate-me:</a>
-- 👌 <a href="https://www.behance.net/marcosnathanael"> Behance</a> 
+- 📫 <a href="mailto:contato.marcos.nathanael@gmail.com" target="_blank"> Contate-me:</a>
+- 👌 <a href="https://www.behance.net/marcosnathanael" target="_blank"> Behance</a> 
   
 </div>
 
