@@ -19,7 +19,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/](https://seeklogo.com/vector-logo/306166/c-programming-language)javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://seeklogo.com/vector-logo/306166/c-programming-language)javascript/javascript-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
   <img align="right" alt="Marcos-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/82640172?v=4">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
