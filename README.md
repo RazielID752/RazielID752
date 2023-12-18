@@ -23,6 +23,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" stye="border-radius:5px;" height="30" width="30" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png">
   <img align="center" alt="C" height="40" width="40" src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png">
+  <img align="center" alt="React-js" height="35" width="30" src="https://raw.githubusercontent.com/rexxars/react-hexagon/HEAD/logo/react-hexagon.png">
   <img align="right" alt="Marcos-pic" height="150" src="https://avatars.githubusercontent.com/u/82640172?v=4">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
