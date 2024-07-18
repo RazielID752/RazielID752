@@ -46,7 +46,7 @@
 </div>
 
 <!-- título  -->
-<h4>Acesse meu Portifolio</h4>
+<h4>Acesse meu portfólio</h4>
 
 <!-- bloco Portifolio  -->
 <div>
