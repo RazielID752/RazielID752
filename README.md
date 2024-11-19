@@ -1,4 +1,4 @@
-<img width="1000" height="250" alt="" src="https://media.licdn.com/dms/image/D4D16AQHw_0sINm9Qdw/profile-displaybackgroundimage-shrink_350_1400/0/1690389608138?e=1726704000&v=beta&t=6TeNH8Icy6qiyJPxIkiOXDeAAB0O23F8Z5y9ruspT44">
+<img width="1000" height="250" alt="" src="https://media.licdn.com/dms/image/v2/D4D16AQHw_0sINm9Qdw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690389608138?e=1737590400&v=beta&t=ZcPLXVtr2KAK-5ZkVHgI6HdAeq82CLnCVyppBYbpVAU">
 
 ### Olá eu sou o Marcos Nathanael 👋
 <div>
