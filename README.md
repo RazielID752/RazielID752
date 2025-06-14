@@ -14,7 +14,7 @@
 - 🔭 Instrutor no Senai: Front-end
 - 💻 Trabalhando na: Marcos N
 - 🧑🏽‍💻 Front-end e UX | UI Design.
-- 🌱 Estudando sempre UX Design, Front-end, um dia quem sabe back-end 🤷‍♂️.
+- 🌱 Estudando sempre UX Design, Front-end e back-end. Fullstack será?.
 - 📫 <a href="mailto:contato.marcos.nathanael@gmail.com"> Contate-me:</a>
 - 👌 <a href="https://www.behance.net/marcosnathanael" target="_blank"> Behance</a>
 - Acesse <a href="https://marcosuxdesign.com/">Meu Site</a> e saiba mais!
