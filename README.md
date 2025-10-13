@@ -2,9 +2,9 @@
 
 # Olá! Eu sou o Marcos Nathanael 👋
 
-<div align="center">
+<div align="left">
   
-  **Desenvolvedor Front-End & UI/UX Designer**
+  **Front-End Developer | React, Next.js, Angular | TypeScript | Css | Sass | Tailwind | UX/UI Designer | Foco em performance e experiência do usuário**
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcosuxdesign.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-nathanael-b39936196)
@@ -15,28 +15,31 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor apaixonado por criar experiências digitais excepcionais! Atuo como **Desenvolvedor Front-End** e **UI/UX Designer**, contribuindo no desenvolvimento de aplicações e sistemas web desde a concepção até a implementação.
 
-### 💼 Experiência Profissional
+### Experiência Profissional
+- **💻 Desenvolvedor Front-end** - Marlin - Atualmente
 - **🎓 Instrutor no SENAI** - Ensino desenvolvimento Front-end
-- **💻 Freelancer** - Projetos para grandes empresas e marcas
+- **💻 Freelancer Front-end** - Projetos para grandes empresas e marcas
+- **💻 UI/UX Design** - Codezone
+- **💻 Desenvolvedor Front-end** - linkko
 - **👥 Trabalho em equipe** - Experiência com metodologias ágeis (Scrum e Kanban)
 
-### 🎯 Foco & Especialidades
+### Foco & Especialidades
 - 🎨 **UI/UX Design** - Criação de interfaces intuitivas e atrativas
 - 💻 **Front-end Development** - Desenvolvimento de aplicações web modernas
 - 🔍 **UX Research** - Pesquisa e testes de usabilidade
 - � **Performance** - Otimização e melhores práticas
 
-### � Atualmente
-- 📚 Estudando **UX Design avançado** e estudando para virar um Dev **Full-stack**
-- �️ Trabalhando em projetos inovadores na **Marlin** como Front-end.
-- � Criando conteúdo educacional para iniciantes em programação
+### Atualmente
+- Faculdade e estudando para virar um Dev **Full-stack**
+- Trabalhando em projetos inovadores na **Marlin** como Front-end.
+- Criando conteúdo educacional para iniciantes em programação, e aprimorando o meu conhecimento
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack
 
 ### 💻 Linguagens & Frameworks
 <div style="display: inline_block">
@@ -50,7 +53,7 @@ Sou um desenvolvedor apaixonado por criar experiências digitais excepcionais! A
   <img align="center" alt="C" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
 </div>
 
-### 🎨 Estilização & Tools
+### Estilização & ferramentas
 <div style="display: inline_block">
   <img align="center" alt="Tailwind CSS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Sass" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sass.svg">
@@ -59,7 +62,7 @@ Sou um desenvolvedor apaixonado por criar experiências digitais excepcionais! A
   <img align="center" alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
 
-### 🎨 Design & Prototipagem
+### Design & Prototipagem
 <div style="display: inline_block">
   <img align="center" alt="Figma" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   <img align="center" alt="Adobe XD" height="45" width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg">
@@ -69,9 +72,9 @@ Sou um desenvolvedor apaixonado por criar experiências digitais excepcionais! A
 
 ---
 
-## 🌐 Conecte-se Comigo
+## Entre em contato
 
-<div align="center">
+<div align="Left">
   <a href="mailto:contato.marcos.nathanael@gmail.com">
     <img height="60" width="60" alt="Gmail" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg">
   </a>
@@ -85,9 +88,9 @@ Sou um desenvolvedor apaixonado por criar experiências digitais excepcionais! A
 
 ---
 
-## 🎯 Projetos & Portfolio
+## Projetos & Portfolio
 
-<div align="center">
+<div align="left">
   <a href="https://marcosuxdesign.com/" target="_blank">
     <img height="80" width="80" src="https://marcosuxdesign.com/favicon.ico" alt="Portfolio">
   </a>
@@ -98,7 +101,7 @@ Sou um desenvolvedor apaixonado por criar experiências digitais excepcionais! A
 
 ---
 
-## 📚 Recursos Educacionais
+## Documentação de progamação
 
 ### 📖 Documentação Front-end para Iniciantes
 
@@ -115,9 +118,9 @@ Criei uma documentação para ajudar estudantes que estão começando na program
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
-<div align="center">
+<div align="left">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazielID752&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
@@ -127,9 +130,7 @@ Criei uma documentação para ajudar estudantes que estão começando na program
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
+<div align="left">
   
   ![Snake animation](https://github.com/RazielID752/RazielID752/blob/output/github-contribution-grid-snake.svg)
   
@@ -137,7 +138,7 @@ Criei uma documentação para ajudar estudantes que estão começando na program
 
 ---
 
-<div align="center">
+<div align="left">
   
   ### 💬 "Design não é apenas como algo se parece. Design é como algo funciona." - Steve Jobs
   
