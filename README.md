@@ -1,88 +1,148 @@
-<img width="1000" height="250" alt="" src="https://marcosuxdesign.com/capa-marcos-n.jpeg">
+<img width="1000" height="250" alt="Banner Marcos Nathanael" src="https://marcosuxdesign.com/capa-marcos-n.jpeg">
 
-### Olá eu sou o Marcos Nathanael 👋
-<div>
-  <p>
-    Sou um profissional de UI/UX Design e Front-end apaixonado por criar experiências excepcionais para os usuários. Minha jornada envolve a construção de interfaces, aplicações e sistemas web em squads multidisciplinares, onde utilizo as melhores práticas das metodologias ágeis para desenvolver projetos de alta demanda para grandes empresas e marcas.
-  </p>
-</div>
-<!-- título  -->
-<h4>Sobre mim</h4>
+# Olá! Eu sou o Marcos Nathanael 👋
 
-<div>
+<div align="center">
   
-- 🔭 Instrutor no Senai: Front-end
-- 💻 Trabalhando na: Marcos N
-- 🧑🏽‍💻 Front-end e UX | UI Design.
-- 🌱 Estudando sempre UX Design, Front-end e back-end. Fullstack será?.
-- 📫 <a href="mailto:contato.marcos.nathanael@gmail.com"> Contate-me:</a>
-- 👌 <a href="https://www.behance.net/marcosnathanael" target="_blank"> Behance</a>
-- Acesse <a href="https://marcosuxdesign.com/">Meu Site</a> e saiba mais!
+  **Desenvolvedor Front-End & UI/UX Designer**
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcosuxdesign.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-nathanael-b39936196)
+  [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosnathanael)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.marcos.nathanael@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+Sou um desenvolvedor apaixonado por criar experiências digitais excepcionais! Atuo como **Desenvolvedor Front-End** e **UI/UX Designer**, contribuindo no desenvolvimento de aplicações e sistemas web desde a concepção até a implementação.
+
+### 💼 Experiência Profissional
+- **🎓 Instrutor no SENAI** - Ensino desenvolvimento Front-end
+- **💻 Freelancer** - Projetos para grandes empresas e marcas
+- **👥 Trabalho em equipe** - Experiência com metodologias ágeis (Scrum e Kanban)
+
+### 🎯 Foco & Especialidades
+- 🎨 **UI/UX Design** - Criação de interfaces intuitivas e atrativas
+- 💻 **Front-end Development** - Desenvolvimento de aplicações web modernas
+- 🔍 **UX Research** - Pesquisa e testes de usabilidade
+- � **Performance** - Otimização e melhores práticas
+
+### � Atualmente
+- 📚 Estudando **UX Design avançado** e estudando para virar um Dev **Full-stack**
+- �️ Trabalhando em projetos inovadores na **Marlin** como Front-end.
+- � Criando conteúdo educacional para iniciantes em programação
+---
+
+## 🛠️ Stack Tecnológico
+
+### 💻 Linguagens & Frameworks
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img align="center" alt="CSS3" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img align="center" alt="TypeScript" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg">
+  <img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+  <img align="center" alt="Angular" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Dark.svg">
+  <img align="center" alt="Next.js" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg">
+  <img align="center" alt="C" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
+</div>
+
+### 🎨 Estilização & Tools
+<div style="display: inline_block">
+  <img align="center" alt="Tailwind CSS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
+  <img align="center" alt="Sass" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sass.svg">
+  <img align="center" alt="Vite" height="45" width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg">
+  <img align="center" alt="Vercel" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg">
+  <img align="center" alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+</div>
+
+### 🎨 Design & Prototipagem
+<div style="display: inline_block">
+  <img align="center" alt="Figma" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img align="center" alt="Adobe XD" height="45" width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg">
+  <img align="center" alt="Adobe Illustrator" height="45" width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg">
+  <img align="center" alt="Adobe Photoshop" height="45" width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="mailto:contato.marcos.nathanael@gmail.com">
+    <img height="60" width="60" alt="Gmail" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-nathanael-b39936196" target="_blank">
+    <img height="60" width="60" alt="LinkedIn" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg">
+  </a>
+  <a href="https://www.instagram.com/marcosnweb/" target="_blank">
+    <img height="60" width="60" alt="Instagram" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg">
+  </a>
+</div>
+
+---
+
+## 🎯 Projetos & Portfolio
+
+<div align="center">
+  <a href="https://marcosuxdesign.com/" target="_blank">
+    <img height="80" width="80" src="https://marcosuxdesign.com/favicon.ico" alt="Portfolio">
+  </a>
+  
+  ### [🌟 Acesse meu Portfolio](https://marcosuxdesign.com/)
   
 </div>
-</div>
-<!-- linha  -->
-<h2 dir="auto"></h2>
 
-<div>
-<!-- título  -->
-<h4>Tecnologias e Softwares</h4>
+---
 
-<!-- icones -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img align="center" alt="Js" stye="border-radius:5px;" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img align="center" alt="typescript" stye="border-radius:5px;" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg">
-  <img align="center" alt="Tailwind" stye="border-radius:5px;" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
-  <img align="center" alt="Sass" stye="border-radius:5px;" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sass.svg">
-  <img align="center" alt="React-js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-  <img align="center" alt="Angular-js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Dark.svg">
-  <img align="center" alt="Nextjs" stye="border-radius:5px;" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg">
-  <img align="center" alt="Vite" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg">
-  <img align="center" alt="Vercel" stye="border-radius:5px;" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img align="center" alt="Adobe XD" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg">
-  <img align="center" alt="Illustrator" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg">
-  <img align="center" alt="Adobe Photoshop" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
-</div>
+## 📚 Recursos Educacionais
 
-<!-- título  -->
-<h4>Redes sociais</h4>
+### 📖 Documentação Front-end para Iniciantes
 
-<!-- bloco contato  -->
-<div> 
-  <a href ="mailto:contato.marcos.nathanael@gmail.com"><img height="70" width="70" alt="Gmail" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-nathanael-b39936196" target="_blank"><img height="70" width="70" alt="Linkedin" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" target="_blank"></a>
-  <a href="https://www.instagram.com/marcosnweb/" target="_blank"><img height="70" alt="Instagram" width="70" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" target="_blank"></a>
-</div>
+Criei uma documentação para ajudar estudantes que estão começando na programação:
 
-<!-- título  -->
-<h4>Acesse meu portfólio</h4>
+🔗 **[Documentação Front-end](https://doc.marcosuxdesign.com/)**
 
-<!-- bloco Portifolio  -->
-<div>
-   <a href="https://marcosuxdesign.com/"><img height="80" width="80" src="https://marcosuxdesign.com/favicon.ico" target="_blank"></a>
-</div>
-<!-- bloco documentação -->
-<div>
-  <div>
-  <h3>Documetação que fiz para ajudar os alunos que estão começando na progamação.</h3>
-    <div>
-    <span>Link: <a href="https://doc.marcosuxdesign.com/">Documentação Front-end</a></span>
-  </div>
-  <span>Obs: Atualizando com mais informações.</span>
-  </div>
-</div>
+> 💡 *Constantemente atualizada com novos conteúdos e exemplos práticos*
 
-<!-- linha  -->
-<h2 dir="auto"></h2>
+**O que você encontrará:**
+- 🎯 Guias passo a passo
+- 💻 Exemplos de código
+- 🚀 Dicas de performance
 
-<div>
-<!-- a cobra  -->
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
   
-![Snake animation](https://github.com/RazielID752/RazielID752/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazielID752&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazielID752&layout=compact&theme=radical&hide_border=true)
+  
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/RazielID752/RazielID752/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💬 "Design não é apenas como algo se parece. Design é como algo funciona." - Steve Jobs
+  
+  **Obrigado pela visita!** ⭐ 
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=RazielID752&color=blueviolet&style=flat-square&label=Visitantes)
   
 </div>
