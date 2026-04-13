@@ -50,7 +50,10 @@ Sou um desenvolvedor apaixonado por criar experiências digitais excepcionais! A
   <img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
   <img align="center" alt="Angular" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Dark.svg">
   <img align="center" alt="Next.js" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg">
+  <img align="center" alt="NodeJS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="DotNet" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg">
   <img align="center" alt="C" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
+  <img align="center" alt="C#" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg">
 </div>
 
 ### Estilização & ferramentas
