@@ -1,4 +1,4 @@
-<img width="1000" height="250" alt="Banner Marcos Nathanael" src="https://marcosuxdesign.com/capa-marcos-n.jpeg">
+<img width="1000" height="250" alt="Banner Marcos Nathanael" src="https://www.marcosuxdesign.com/capa-marcos-n-2.png">
 
 # Olá! Eu sou o Marcos Nathanael 👋
 
