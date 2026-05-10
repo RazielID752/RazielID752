@@ -42,19 +42,36 @@ Sou um desenvolvedor apaixonado por criar experiências digitais funcionais, ace
 ## Stack
 
 ### 💻 Linguagens & Frameworks
-<p align="left">
-  <img align="center" alt="HTML5" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"> <img align="center" alt="CSS3" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"> <img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"> <img align="center" alt="TypeScript" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg"> <img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"> <img align="center" alt="Angular" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Dark.svg"> <img align="center" alt="Next.js" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"> <img align="center" alt="NodeJS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg"> <img align="center" alt="DotNet" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg"> <img align="center" alt="C" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg"> <img align="center" alt="C#" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg">
-</p>
+<div align="left">
+  <img alt="HTML5" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />&nbsp;
+  <img alt="CSS3" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />&nbsp;
+  <img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />&nbsp;
+  <img alt="TypeScript" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" />&nbsp;
+  <img alt="React" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />&nbsp;
+  <img alt="Angular" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Dark.svg" />&nbsp;
+  <img alt="Next.js" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" />&nbsp;
+  <img alt="NodeJS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" />&nbsp;
+  <img alt=".NET" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" />&nbsp;
+  <img alt="C" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />&nbsp;
+  <img alt="C#" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" />
+</div>
 
 ### Estilização & Ferramentas
-<p align="left">
-  <img align="center" alt="Tailwind CSS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"> <img align="center" alt="Sass" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sass.svg"> <img align="center" alt="Vite" height="45" width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg"> <img align="center" alt="Vercel" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg"> <img align="center" alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-</p>
+<div align="left">
+  <img alt="Tailwind CSS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" />&nbsp;
+  <img alt="Sass" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sass.svg" />&nbsp;
+  <img alt="Vite" height="45" width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" />&nbsp;
+  <img alt="Vercel" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" />&nbsp;
+  <img alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+</div>
 
 ### Design & Prototipagem
-<p align="left">
-  <img align="center" alt="Figma" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"> <img align="center" alt="Adobe XD" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg"> <img align="center" alt="Adobe Illustrator" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg"> <img align="center" alt="Adobe Photoshop" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg">
-</p>
+<div align="left">
+  <img alt="Figma" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />&nbsp;
+  <img alt="Adobe XD" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg" />&nbsp;
+  <img alt="Adobe Illustrator" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" />&nbsp;
+  <img alt="Adobe Photoshop" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" />
+</div>
 
 ---
 
@@ -107,11 +124,8 @@ Criei uma documentação para ajudar estudantes que estão começando na program
 ## Estatísticas GitHub
 
 <div align="left">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazielID752&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazielID752&layout=compact&theme=radical&hide_border=true)
-  
+  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RazielID752&show_icons=true&theme=radical&hide_border=true&count_private=true">
+  <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazielID752&layout=compact&theme=radical&hide_border=true">
 </div>
 
 ---
