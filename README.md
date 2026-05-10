@@ -43,34 +43,17 @@ Sou um desenvolvedor apaixonado por criar experiências digitais funcionais, ace
 
 ### 💻 Linguagens & Frameworks
 <div align="left">
-  <img alt="HTML5" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />&nbsp;
-  <img alt="CSS3" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />&nbsp;
-  <img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />&nbsp;
-  <img alt="TypeScript" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" />&nbsp;
-  <img alt="React" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />&nbsp;
-  <img alt="Angular" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Dark.svg" />&nbsp;
-  <img alt="Next.js" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" />&nbsp;
-  <img alt="NodeJS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" />&nbsp;
-  <img alt=".NET" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" />&nbsp;
-  <img alt="C" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />&nbsp;
-  <img alt="C#" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" />
+  <img alt="HTML5, CSS3, JavaScript, TypeScript, React, Angular, Next.js, Node.js, .NET, C e C#" src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,nodejs,dotnet,c,cs&theme=dark" />
 </div>
 
 ### Estilização & Ferramentas
 <div align="left">
-  <img alt="Tailwind CSS" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" />&nbsp;
-  <img alt="Sass" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sass.svg" />&nbsp;
-  <img alt="Vite" height="45" width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" />&nbsp;
-  <img alt="Vercel" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" />&nbsp;
-  <img alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img alt="Tailwind CSS, Sass, Vite, Vercel e Git" src="https://skillicons.dev/icons?i=tailwind,sass,vite,vercel,git&theme=dark" />
 </div>
 
 ### Design & Prototipagem
 <div align="left">
-  <img alt="Figma" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />&nbsp;
-  <img alt="Adobe XD" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg" />&nbsp;
-  <img alt="Adobe Illustrator" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" />&nbsp;
-  <img alt="Adobe Photoshop" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" />
+  <img alt="Figma, Adobe XD, Adobe Illustrator e Adobe Photoshop" src="https://skillicons.dev/icons?i=figma,xd,ai,ps&theme=dark" />
 </div>
 
 ---
