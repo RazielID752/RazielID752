@@ -105,11 +105,16 @@ Criei uma documentação para ajudar estudantes que estão começando na program
 
 ---
 ## Projetos
-- Calcify - Editor e Calculadora inteligente: **[Calcify](https://calcify.com.br)**
-- Stayreals - Gestor de renda pessoal: **[stayreals](https://www.stayreals.com.br)** 
-- Weti - Empresa de tecnlogia TI: **[Weti]( https://www.weti.com.br/)**
-- Bruna cortinas - Landinpage para vendas de conrtinas via anuncio ADS: **[Bruna Cortinas](https://bruna-cortinas.vercel.app/)**
-- Tesseract-8D-128 lab - Projeto voltado para criptografia de dados: **[Tesseract](https://tesseract-8-d-128.vercel.app)** 
+- Calcify — Editor e calculadora inteligente: **[Acessar Calcify](https://calcify.com.br)**
+  Plataforma focada em edição e cálculos inteligentes, desenvolvida para oferecer uma experiência prática, moderna e intuitiva.
+- Stayreals - Gestor de renda pessoal: **[Acessar stayreals](https://www.stayreals.com.br)**
+  Aplicação voltada para organização financeira pessoal, auxiliando no controle de renda, gastos e planejamento.
+- Weti - Empresa de tecnlogia TI: **[Acessar Weti]( https://www.weti.com.br/)**
+  Site institucional desenvolvido para apresentar soluções, serviços e posicionamento de uma empresa de tecnologia.
+- Bruna cortinas - Landinpage para vendas de conrtinas via anuncio ADS: **[Acessar Bruna Cortinas](https://bruna-cortinas.vercel.app/)**
+  Landing page criada para captação de clientes e conversão de vendas de cortinas por meio de campanhas de anúncios pagos.
+- Tesseract-8D-128 lab - Projeto voltado para criptografia de dados: **[Acessar Tesseract](https://tesseract-8-d-128.vercel.app)**
+  Projeto experimental voltado para estudos e aplicações relacionadas à criptografia e proteção de dados.
 ---
 
 ## Estatísticas GitHub
