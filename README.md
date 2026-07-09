@@ -30,6 +30,7 @@ Sou um desenvolvedor apaixonado por criar experiências digitais funcionais, ace
 ### Foco & especialidades
 - 🎨 **UI/UX Design** - Criação de interfaces intuitivas e atrativas
 - 💻 **Front-end Development** - Desenvolvimento de aplicações web modernas e responsivas
+- 💻 **Back-end Development** - Desenvolvimento e integração de APIs, autenticação e regras de negócio
 - 🔍 **UX Research** - Pesquisa e testes de usabilidade
 - 🚀 **Performance** - Otimização e boas práticas para web
 
@@ -102,6 +103,13 @@ Criei uma documentação para ajudar estudantes que estão começando na program
 - 💻 Exemplos de código
 - 🚀 Dicas de performance
 
+---
+## Projetos
+- Calcify - Editor e Calculadora inteligente: **[Calcify](https://calcify.com.br)**
+- Stayreals - Gestor de renda pessoal: **[stayreals](https://www.stayreals.com.br)** 
+- Weti - Empresa de tecnlogia TI: **[Weti]( https://www.weti.com.br/)**
+- Bruna cortinas - Landinpage para vendas de conrtinas via anuncio ADS: **[Bruna Cortinas](https://bruna-cortinas.vercel.app/)**
+- Tesseract-8D-128 lab - Projeto voltado para criptografia de dados: **[Tesseract](https://tesseract-8-d-128.vercel.app)** 
 ---
 
 ## Estatísticas GitHub
